@@ -53,6 +53,11 @@ func main() {
 	fmt.Print("Статистика: ")
 	for i, status := range keys {
 		fmt.Printf("%s=%d", status, counts[status])
+		if i == len(keys)-1 {
+			fmt.Println()
+			continue
+		}
+		fmt.Print(", ")
 	}
 }
 
