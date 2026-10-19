@@ -12,16 +12,16 @@
 ### Выполненные задания:
 
 1. **Первая программа**  
-  <u>Файл:</u> [main.go](https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/main.go)  
-  <u>Описание:</u> Базовая программа, печатающая приветствие.  
+  _Файл:_ [main.go](https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/main.go)  
+  _Описание:_ Базовая программа, печатающая приветствие.  
 
 3. **Карточка участника (переменные и типы)**  
-  <u>Файл:</u> [карта](https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/cmd/card/main.go)  
-  <u>Описание:</u> Демонстрация работы с константами (`const`), переменными разных типов (`string`, ``int`, ``bool`, ``float64`), короткими объявлениями (`:=`) и форматированным выводом (`fmt.Printf`).  
+  _Файл:_ [карта](https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/cmd/card/main.go)  
+  _Описание:_ Демонстрация работы с константами (`const`), переменными разных типов (`string`, ``int`, ``bool`, ``float64`), короткими объявлениями (`:=`) и форматированным выводом (`fmt.Printf`).  
 
 4. **Конвертер минут (сделай сам)**  
-  <u>Файл:</u> [конвертер времени] (https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/cmd/time-converter/main.go)  
-  <u>Описание:</u> Программа для преобразования минут в часы и минуты.  
+  _Файл:_ [конвертер времени] (https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/cmd/time-converter/main.go)  
+  _Описание:_ Программа для преобразования минут в часы и минуты.  
 
 ---
 
@@ -32,7 +32,7 @@
 ### Выполненные задания:
 
 1. **Задача 1: Сводная информация о состоянии задачи**  
-  <u>Файл:</u> [task-summary](https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/cmd/task-summary/main.go)
-  <u>Описание:</u> Программа генерирует список задач, добавляет новую задачу и отображает ее с нумерацией.  
+  _Файл:_ [task-summary](https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/cmd/task-summary/main.go)
+  _Описание:_ Программа генерирует список задач, добавляет новую задачу и отображает ее с нумерацией.  
   Реализованы функции statusLabel (перевод кода состояния в текст через переключатель) и countStatus (подсчет задач с определенным статусом через цикл).  
   Также реализован расчет общей статистики с помощью «карты» и отображение выполненных задач.  
