@@ -8,11 +8,11 @@
 ## Практика № 1: Знакомство с Go
 
 1. **Первая программа**
-   - Файл: `main.go`(https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/main.go)
+   - Файл: [`main.go`](https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/main.go)
    - Описание: Базовая программа, печатающая приветствие.
 
 2. **Карточка участника (переменные и типы)**
-   - Файл: `cmd/card/main.go`(https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/cmd/card/main.go)
+   - Файл: [`cmd/card/main.go`](https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/cmd/card/main.go)
    - Описание: Демонстрация работы с константами (`const`), переменными разных типов (`string`, `int`, `bool`, `float64`), короткими объявлениями (`:=`) и форматированным выводом (`fmt.Printf`).
 
 3. **Конвертер минут (самостоятельная работа)**
