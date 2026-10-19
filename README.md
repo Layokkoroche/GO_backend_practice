@@ -3,8 +3,6 @@
 **Ученик:** Глухов Сергей
 **Группа:** ЭФБО-07-26
 
----
-
 ## Практика № 1: Знакомство с Go
 1. **Первая программа**
    - Файл: [`main.go`](https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/main.go)
@@ -17,8 +15,6 @@
 3. **Конвертер минут (самостоятельная работа)**
    - Файл: [`cmd/time-converter/main.go`](https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/cmd/time-converter/main.go)
    - Описание: Программа для преобразования минут в часы и остаточные минуты.
-
----
 
 ## Практика №2: Условия, циклы, функции и коллекции
 1. **Задача 1: Сводная информация о состоянии задачи**  
