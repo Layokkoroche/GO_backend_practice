@@ -16,11 +16,11 @@
    - Описание: Базовая программа, выводящая приветствие.
 
 2. **Карточка участника (Переменные и типы)**
-   - Файл: `cmd/card/main.go`
+   - Файл: `cmd/card/main.go` [card](https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/cmd/card/main.go)
    - Описание: Демонстрация работы с константами (`const`), переменными разных типов (`string`, `int`, `bool`, `float64`), краткими объявлениями (`:=`) и форматированным выводом (`fmt.Printf`).
 
 3. **Конвертер минут (Самостоятельная работа)**
-   - Файл: `cmd/time-converter/main.go`
+   - Файл: `cmd/time-converter/main.go` [time-converter](https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/cmd/time-converter/main.go)
    - Описание: Программа для перевода минут в часы и минуты.
 
 ---
@@ -32,5 +32,5 @@
 ### Выполненные задания:
 
 1. **Задание 1. Сводка статусов задач**
-   - Файл: `cmd/task-summary/main.go`
+   - Файл: [task-summary](https://github.com/Layokkoroche/GO_backend_practice/blob/main/go-practice-01/cmd/task-summary/main.go)
    - Описание: Программа формирует список задач, добавляет новую задачу и выводит его с нумерацией. Реализованы функции `statusLabel` (перевод кода статуса в текст через `switch`) и `countStatus` (подсчет задач с определенным статусом через цикл). Также реализован подсчет общей статистики с использованием `map` и вывод завершенных задач.
